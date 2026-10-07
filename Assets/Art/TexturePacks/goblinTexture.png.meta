@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 96c7d5d1c63b1ab41920ea64acf83fcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7695824397999084186
+    second: Goblin animacion Arriba2_00000.png
+  - first:
+      213: -5318499566087862495
+    second: Goblin animacion Arriba2_00001.png
+  - first:
+      213: 1937679078469580009
+    second: Goblin animacion Arriba2_00002.png
+  - first:
+      213: 2622497944780910319
+    second: Goblin animacion Arriba2_00003.png
+  - first:
+      213: -5683195406345449827
+    second: Goblin animacion Arriba2_00004.png
+  - first:
+      213: 5255603649700437408
+    second: Goblin animacion Arriba2_00005.png
+  - first:
+      213: 7322035694051532870
+    second: Goblin animacion Arriba2_00006.png
+  - first:
+      213: -7169031156914602620
+    second: Goblin animacion Arriba2_00007.png
+  - first:
+      213: -6207632226019772391
+    second: Goblin animacion Arriba2_00008.png
+  - first:
+      213: 2965740912173983842
+    second: Goblin animacion Arriba2_00009.png
+  - first:
+      213: -3062378742477234629
+    second: Goblin animacion Arriba2_00010.png
+  - first:
+      213: -785192873438374713
+    second: Goblin animacion Arriba2_00011.png
+  - first:
+      213: 3986608339559767407
+    second: Goblin animacion Arriba2_00012.png
+  - first:
+      213: 4371543850597214637
+    second: Goblin animacion Arriba2_00013.png
+  - first:
+      213: -2143589932015645685
+    second: Goblin animacion Arriba2_00014.png
+  - first:
+      213: -1905964002636871248
+    second: Goblin animacion Arriba2_00015.png
+  - first:
+      213: -3054749694246103145
+    second: Goblin animacion Arriba2_00016.png
+  - first:
+      213: -5341185301651587902
+    second: Goblin animacion Arriba2_00017.png
+  - first:
+      213: -2544987079601464518
+    second: Goblin animacion Arriba2_00018.png
+  - first:
+      213: -7838362791532083743
+    second: Goblin animacion Arriba2_00019.png
+  - first:
+      213: -4029365684727961418
+    second: Goblin animacion Arriba2_00020.png
+  - first:
+      213: -1064884959061977214
+    second: Goblin animacion Arriba2_00021.png
+  - first:
+      213: 7536043636636577786
+    second: Goblin animacion Arriba2_00022.png
+  - first:
+      213: -7699190137910048876
+    second: Goblin animacion Arriba2_00023.png
+  - first:
+      213: 4801700809711984262
+    second: Goblin animacion Estar_00000.png
+  - first:
+      213: -3646021937873236265
+    second: Goblin animacion Estar_00001.png
+  - first:
+      213: 5704464828737661416
+    second: Goblin animacion Estar_00002.png
+  - first:
+      213: 5835882766562773776
+    second: Goblin animacion Estar_00003.png
+  - first:
+      213: -1302030526008532563
+    second: Goblin animacion Estar_00004.png
+  - first:
+      213: -2448145569495219563
+    second: Goblin animacion Estar_00005.png
+  - first:
+      213: -1535971809480658274
+    second: Goblin animacion Estar_00006.png
+  - first:
+      213: 3632034662123193592
+    second: Goblin animacion Estar_00007.png
+  - first:
+      213: 3904094088547309290
+    second: Goblin animacion Estar_00008.png
+  - first:
+      213: 2169750541756952247
+    second: Goblin animacion Estar_00009.png
+  - first:
+      213: 8859081928695006825
+    second: Goblin animacion Estar_00010.png
+  - first:
+      213: 4521999441850025135
+    second: Goblin animacion Estar_00011.png
+  - first:
+      213: 4560846193438127229
+    second: Goblin animacion Estar_00012.png
+  - first:
+      213: 4865411064059778495
+    second: Goblin animacion Estar_00013.png
+  - first:
+      213: -5999657771105034228
+    second: Goblin animacion Estar_00014.png
+  - first:
+      213: -4572533097475477528
+    second: Goblin animacion Estar_00015.png
+  - first:
+      213: 1354945961371364034
+    second: Goblin animacion Estar_00016.png
+  - first:
+      213: 1232762896341894034
+    second: Goblin animacion Estar_00017.png
+  - first:
+      213: -667840994504394500
+    second: Goblin animacion Estar_00018.png
+  - first:
+      213: 4131912435385710716
+    second: Goblin animacion Estar_00019.png
+  - first:
+      213: 1055572346701551092
+    second: Goblin animacion Estar_00020.png
+  - first:
+      213: 1855435424192338903
+    second: Goblin animacion Estar_00021.png
+  - first:
+      213: -7959816387831860405
+    second: Goblin animacion Estar_00022.png
+  - first:
+      213: -8841235058785144029
+    second: Goblin animacion Estar_00023.png
+  - first:
+      213: 1929029809278227843
+    second: Goblin animacion Frontal_00000_00000.png
+  - first:
+      213: 2276568791231212341
+    second: Goblin animacion Frontal_00000_00001.png
+  - first:
+      213: 7298564566544350749
+    second: Goblin animacion Frontal_00000_00002.png
+  - first:
+      213: 5304039815516985102
+    second: Goblin animacion Frontal_00000_00003.png
+  - first:
+      213: -186847060465941590
+    second: Goblin animacion Frontal_00000_00004.png
+  - first:
+      213: -660241496628146171
+    second: Goblin animacion Frontal_00000_00005.png
+  - first:
+      213: 574073116398360682
+    second: Goblin animacion Frontal_00000_00006.png
+  - first:
+      213: 4260401258300273147
+    second: Goblin animacion Frontal_00000_00007.png
+  - first:
+      213: 6518185056920089330
+    second: Goblin animacion Frontal_00000_00008.png
+  - first:
+      213: -295444874115882854
+    second: Goblin animacion Frontal_00000_00009.png
+  - first:
+      213: -3079077644888019718
+    second: Goblin animacion Frontal_00000_00010.png
+  - first:
+      213: -5243989289009200981
+    second: Goblin animacion Frontal_00000_00011.png
+  - first:
+      213: -6008097282972606051
+    second: Goblin animacion Frontal_00000_00012.png
+  - first:
+      213: 6564651607992449345
+    second: Goblin animacion Frontal_00000_00013.png
+  - first:
+      213: 8484388854915063155
+    second: Goblin animacion Frontal_00000_00014.png
+  - first:
+      213: -3603032516583987711
+    second: Goblin animacion Frontal_00000_00015.png
+  - first:
+      213: -8278335704306205599
+    second: Goblin animacion Frontal_00000_00016.png
+  - first:
+      213: -5953477401058638899
+    second: Goblin animacion Frontal_00000_00017.png
+  - first:
+      213: -1396691395974027420
+    second: Goblin animacion Frontal_00000_00018.png
+  - first:
+      213: 4522201255036677875
+    second: Goblin animacion Frontal_00000_00019.png
+  - first:
+      213: 4737833889997682404
+    second: Goblin animacion Frontal_00000_00020.png
+  - first:
+      213: -5633277694633619275
+    second: Goblin animacion Frontal_00000_00021.png
+  - first:
+      213: -3194961388830875644
+    second: Goblin animacion Frontal_00000_00022.png
+  - first:
+      213: 6279810922048898220
+    second: Goblin animacion Frontal_00000_00023.png
+  - first:
+      213: -3334707429276821855
+    second: Goblin animacion lateral_00004.png
+  - first:
+      213: 3729716226060578890
+    second: Goblin animacion lateral_00005.png
+  - first:
+      213: 9179116674402115814
+    second: Goblin animacion lateral_00006.png
+  - first:
+      213: -8523158354112985078
+    second: Goblin animacion lateral_00007.png
+  - first:
+      213: -6996356421079164927
+    second: Goblin animacion lateral_00008.png
+  - first:
+      213: 2333003813320512972
+    second: Goblin animacion lateral_00009.png
+  - first:
+      213: -8657201931436761058
+    second: Goblin animacion lateral_00010.png
+  - first:
+      213: 1113767075590894395
+    second: Goblin animacion lateral_00011.png
+  - first:
+      213: 6527980854048779157
+    second: Goblin animacion lateral_00012.png
+  - first:
+      213: 6080536551381792595
+    second: Goblin animacion lateral_00013.png
+  - first:
+      213: 8007443689338560322
+    second: Goblin animacion lateral_00014.png
+  - first:
+      213: -7564927386901126788
+    second: Goblin animacion lateral_00015.png
+  - first:
+      213: 4284257268201347226
+    second: Goblin animacion lateral_00016.png
+  - first:
+      213: 8173345667049253159
+    second: Goblin animacion lateral_00017.png
+  - first:
+      213: 8960132320458375737
+    second: Goblin animacion lateral_00018.png
+  - first:
+      213: 8880940885966589885
+    second: Goblin animacion lateral_00019.png
+  - first:
+      213: -9068617383827750078
+    second: Goblin animacion lateral_00020.png
+  - first:
+      213: -4013050966989853151
+    second: Goblin animacion lateral_00021.png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00000.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a921588048f0dca60800000000000000
+      internalID: 7695824397999084186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00001.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278341c2d4e036b0800000000000000
+      internalID: -5318499566087862495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00002.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b2e80bd404ea10800000000000000
+      internalID: 1937679078469580009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00003.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1601
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeabd67cfbf46420800000000000000
+      internalID: 2622497944780910319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00004.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1489
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec5a783eb3121b0800000000000000
+      internalID: -5683195406345449827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00005.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1377
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad14ac8ca7afe840800000000000000
+      internalID: 5255603649700437408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00006.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1265
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6402ca08ba81d9560800000000000000
+      internalID: 7322035694051532870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00007.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1153
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48db56c552c728c90800000000000000
+      internalID: -7169031156914602620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00008.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1041
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f2df316f0ad9a0800000000000000
+      internalID: -6207632226019772391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00009.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26829fd75ad682920800000000000000
+      internalID: 2965740912173983842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00010.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 817
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3edfe642ce3085d0800000000000000
+      internalID: -3062378742477234629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00011.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 705
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c49982ed3f6a15f0800000000000000
+      internalID: -785192873438374713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00012.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 593
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dd112b927435730800000000000000
+      internalID: 3986608339559767407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00013.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 481
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9e3ee78f7daac30800000000000000
+      internalID: 4371543850597214637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00014.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c8a1660507042e0800000000000000
+      internalID: -2143589932015645685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9c52c76d7ac85e0800000000000000
+      internalID: -1905964002636871248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00016.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7975abc76595b95d0800000000000000
+      internalID: -3054749694246103145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00017.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccf487544c40e5b0800000000000000
+      internalID: -5341185301651587902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00018.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b556a2cb36eacd0800000000000000
+      internalID: -2544987079601464518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00019.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5471e029a883390800000000000000
+      internalID: -7838362791532083743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00020.png
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b824ab1241d418c0800000000000000
+      internalID: -4029365684727961418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00021.png
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287547095c4c831f0800000000000000
+      internalID: -1064884959061977214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00022.png
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affe09582c7659860800000000000000
+      internalID: 7536043636636577786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Arriba2_00023.png
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4974ea39c5bf62590800000000000000
+      internalID: -7699190137910048876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00000.png
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e9698227113a240800000000000000
+      internalID: 4801700809711984262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00001.png
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dec8cd6d5ab66dc0800000000000000
+      internalID: -3646021937873236265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00002.png
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e92e96c9845a2f40800000000000000
+      internalID: 5704464828737661416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00003.png
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b4cc3d4783df050800000000000000
+      internalID: 5835882766562773776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00004.png
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1eb8292224eede0800000000000000
+      internalID: -1302030526008532563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00005.png
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5928acb4390760ed0800000000000000
+      internalID: -2448145569495219563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00006.png
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9234e6f6c12faae0800000000000000
+      internalID: -1535971809480658274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00007.png
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f442c72844976230800000000000000
+      internalID: 3632034662123193592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00008.png
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6909583e02e2630800000000000000
+      internalID: 3904094088547309290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00009.png
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be62a43f908c1e10800000000000000
+      internalID: 2169750541756952247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00010.png
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1937
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966c2f3a318c1fa70800000000000000
+      internalID: 8859081928695006825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00011.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa44cf5a88e51ce30800000000000000
+      internalID: 4521999441850025135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00012.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d747213d2716b4f30800000000000000
+      internalID: 4560846193438127229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00013.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1601
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d98fa599658340800000000000000
+      internalID: 4865411064059778495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00014.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1489
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c006f537b0fecbca0800000000000000
+      internalID: -5999657771105034228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00015.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1377
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efe149cf591b80c0800000000000000
+      internalID: -4572533097475477528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00016.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1265
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cae36d4c2cbdc210800000000000000
+      internalID: 1354945961371364034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00017.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1153
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2938db0a257ab1110800000000000000
+      internalID: 1232762896341894034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00018.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1041
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf83f14672a5bb6f0800000000000000
+      internalID: -667840994504394500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00019.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 929
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c783f2ad770875930800000000000000
+      internalID: 4131912435385710716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00020.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 817
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f51fd7e47526ae00800000000000000
+      internalID: 1055572346701551092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00021.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 705
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db19a210b4dfb910800000000000000
+      internalID: 1855435424192338903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00022.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 593
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43f2fd0b2d098190800000000000000
+      internalID: -7959816387831860405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Estar_00023.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 481
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323b1619e8f9d4580800000000000000
+      internalID: -8841235058785144029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00000.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 369
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3851b2f146a45ca10800000000000000
+      internalID: 1929029809278227843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00001.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 257
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ba31cf04ff79f10800000000000000
+      internalID: 2276568791231212341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00002.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 145
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ef027cdc5b94560800000000000000
+      internalID: 7298564566544350749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00003.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 33
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e071b663c1cbb9940800000000000000
+      internalID: 5304039815516985102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00004.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa30a95a69f286df0800000000000000
+      internalID: -186847060465941590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00005.png
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500d18f5bd956d6f0800000000000000
+      internalID: -660241496628146171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00006.png
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a689602357487f700800000000000000
+      internalID: 574073116398360682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00007.png
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf17d913f5cff1b30800000000000000
+      internalID: 4260401258300273147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00008.png
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f23bf146ce357a50800000000000000
+      internalID: 6518185056920089330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00009.png
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90ec9bc37e56ebf0800000000000000
+      internalID: -295444874115882854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00010.png
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc6a94123be445d0800000000000000
+      internalID: -3079077644888019718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00011.png
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba047a6868b9937b0800000000000000
+      internalID: -5243989289009200981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00012.png
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91ad687a53fe9ca0800000000000000
+      internalID: -6008097282972606051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00013.png
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14936904bd35a1b50800000000000000
+      internalID: 6564651607992449345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00014.png
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dde7916ba9eb570800000000000000
+      internalID: 8484388854915063155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10664de04057ffdc0800000000000000
+      internalID: -3603032516583987711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00016.png
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c356599817d1d80800000000000000
+      internalID: -8278335704306205599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00017.png
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3859bb8dff06da0800000000000000
+      internalID: -5953477401058638899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00018.png
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467af1a4394fd9ce0800000000000000
+      internalID: -1396691395974027420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00019.png
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1825
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe6941f41612ce30800000000000000
+      internalID: 4522201255036677875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00020.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e67e1222da20c140800000000000000
+      internalID: 4737833889997682404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00021.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1601
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b05b3a78c392d1b0800000000000000
+      internalID: -5633277694633619275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00022.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1489
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a5a36b8739a3d0800000000000000
+      internalID: -3194961388830875644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion Frontal_00000_00023.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1377
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4c75103ce562750800000000000000
+      internalID: 6279810922048898220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00004.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1265
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a65918d24db8b1d0800000000000000
+      internalID: -3334707429276821855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00005.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1153
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40f95f852d92c330800000000000000
+      internalID: 3729716226060578890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00006.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1041
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e06a997bf5c26f70800000000000000
+      internalID: 9179116674402115814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00007.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 929
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0841b272a8a7b980800000000000000
+      internalID: -8523158354112985078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00008.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 817
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1089d8f37e2f7ee90800000000000000
+      internalID: -6996356421079164927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00009.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 705
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5d9908b9e706020800000000000000
+      internalID: 2333003813320512972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00010.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 593
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e2ef06b07bd780800000000000000
+      internalID: -8657201931436761058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00011.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 481
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33fe171145e47f00800000000000000
+      internalID: 1113767075590894395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00012.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 369
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59be022000c089a50800000000000000
+      internalID: 6527980854048779157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00013.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 257
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357f3e407c7626450800000000000000
+      internalID: 6080536551381792595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00014.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 145
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd7f53c97202f60800000000000000
+      internalID: 8007443689338560322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00015.png
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 33
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7162205f9af30790800000000000000
+      internalID: -7564927386901126788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00016.png
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98d685594db47b30800000000000000
+      internalID: 4284257268201347226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00017.png
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729e2f6749e8d6170800000000000000
+      internalID: 8173345667049253159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00018.png
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9320b656fd8c85c70800000000000000
+      internalID: 8960132320458375737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00019.png
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf084bbea07f3b70800000000000000
+      internalID: 8880940885966589885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00020.png
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243c309798cc52280800000000000000
+      internalID: -9068617383827750078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin animacion lateral_00021.png
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e28075867ce48c0800000000000000
+      internalID: -4013050966989853151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+# Generado por Unity: no se versiona.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Bb]uild/
+/[Bb]uilds/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.unityproj
+.vs/
+.idea/
+.vscode/
+.DS_Store
+crashlytics-build.properties

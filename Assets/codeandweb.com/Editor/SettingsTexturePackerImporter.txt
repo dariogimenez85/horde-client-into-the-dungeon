@@ -1,0 +1,32 @@
+version: 2
+tpsheetFileNames:
+- Assets/Art/TexturePacks/goblinDeads.tpsheet
+- Assets/Art/TexturePacks/goblinTexture.tpsheet
+- Assets/Art/TexturePacks/gridDungeon.tpsheet
+- Assets/Art/TexturePacks/Mage_idle.tpsheet
+- Assets/Art/TexturePacks/Mage_Tresaure-0.tpsheet
+- Assets/Art/TexturePacks/Mage_Tresaure-1.tpsheet
+- Assets/Art/TexturePacks/magician_L_R.tpsheet
+- Assets/Art/TexturePacks/magician_U_D.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/Art/TexturePacks/goblinDeads.png
+- Assets/Art/TexturePacks/goblinTexture.png
+- Assets/Art/TexturePacks/gridDungeon.png
+- Assets/Art/TexturePacks/Mage_idle.png
+- Assets/Art/TexturePacks/Mage_Tresaure-0.png
+- Assets/Art/TexturePacks/Mage_Tresaure-1.png
+- Assets/Art/TexturePacks/magician_L_R.png
+- Assets/Art/TexturePacks/magician_U_D.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0

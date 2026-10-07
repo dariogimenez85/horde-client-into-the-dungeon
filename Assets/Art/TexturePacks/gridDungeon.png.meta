@@ -1,0 +1,2310 @@
+fileFormatVersion: 2
+guid: 8e206b69804ecb646894563c1eb786c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1155250753892489234
+    second: losa_A1.png
+  - first:
+      213: 1477359297142293874
+    second: losa_A4.png
+  - first:
+      213: 1596157668310542628
+    second: losa_A5.png
+  - first:
+      213: 7126288309541130954
+    second: losa_A6.png
+  - first:
+      213: 3287420748062209825
+    second: losa_A7.png
+  - first:
+      213: 3498219197299719361
+    second: losa_B1.png
+  - first:
+      213: 6348262792133892176
+    second: losa_B2.png
+  - first:
+      213: -2108791319658561428
+    second: losa_B4.png
+  - first:
+      213: 9104778491875024318
+    second: losa_B5.png
+  - first:
+      213: -6029139230174199755
+    second: losa_B6.png
+  - first:
+      213: -1821620225989347263
+    second: losa_C1.png
+  - first:
+      213: 4554379299942847763
+    second: losa_C5.png
+  - first:
+      213: 2160793236093356273
+    second: losa_C6.png
+  - first:
+      213: 6646252604731029338
+    second: losa_C7.png
+  - first:
+      213: -805281663423497755
+    second: losa_C8.png
+  - first:
+      213: 5677245790376413618
+    second: Recurso 30DG.png
+  - first:
+      213: -3300176659198235317
+    second: Recurso 31DG.png
+  - first:
+      213: 3280204915641830836
+    second: Recurso 32DG.png
+  - first:
+      213: 1313609837409514342
+    second: Recurso 39DG.png
+  - first:
+      213: 5413146838875196622
+    second: Recurso 40DG.png
+  - first:
+      213: -7355058199840681740
+    second: sideDoor.png
+  - first:
+      213: -6731885567237935358
+    second: Recurso 28DG.png
+  - first:
+      213: -792525894014378697
+    second: Recurso 29DG.png
+  - first:
+      213: -1044045453155901734
+    second: Cofre Animar Estar_00000.png
+  - first:
+      213: -787852205559209430
+    second: Cofre Animar Estar_00001.png
+  - first:
+      213: -4247453007665754919
+    second: Cofre Animar Estar_00002.png
+  - first:
+      213: 7265479097417443459
+    second: Cofre Animar Estar_00003.png
+  - first:
+      213: -7414075876045908920
+    second: Cofre Animar Estar_00004.png
+  - first:
+      213: -8082338348107015297
+    second: Cofre Animar Estar_00005.png
+  - first:
+      213: -5438213031599748420
+    second: Cofre Animar Estar_00006.png
+  - first:
+      213: -1707749425460769583
+    second: Cofre Animar Estar_00007.png
+  - first:
+      213: -1977050234596099914
+    second: Cofre Animar Estar_00008.png
+  - first:
+      213: 675440589653527217
+    second: Cofre Animar Estar_00009.png
+  - first:
+      213: -2339944951211005883
+    second: Cofre Animar Estar_00010.png
+  - first:
+      213: -744880147596087454
+    second: Cofre Animar Estar_00011.png
+  - first:
+      213: -4579701451113436889
+    second: Cofre Animar Estar_00012.png
+  - first:
+      213: -2038158880538796503
+    second: Cofre Animar Estar_00013.png
+  - first:
+      213: 7402350482328156590
+    second: Cofre Animar Estar_00014.png
+  - first:
+      213: 3834004757619665078
+    second: Cofre Animar Estar_00015.png
+  - first:
+      213: 7782570015927515841
+    second: Cofre Animar Estar_00016.png
+  - first:
+      213: -3273671205867401956
+    second: Cofre Animar Estar_00017.png
+  - first:
+      213: 793819572470412955
+    second: Cofre Animar Estar_00018.png
+  - first:
+      213: 360568141004239515
+    second: Cofre Animar Estar_00019.png
+  - first:
+      213: -5858044043860194437
+    second: Cofre Animar Estar_00020.png
+  - first:
+      213: 3309707232760767564
+    second: Cofre Animar Estar_00021.png
+  - first:
+      213: -2862331704457270735
+    second: Cofre Animar Estar_00022.png
+  - first:
+      213: 4751871777147071404
+    second: Cofre Animar Estar_00023.png
+  - first:
+      213: -9157435182821812530
+    second: Arrow0000.png
+  - first:
+      213: 8102735698836622728
+    second: Arrow0001.png
+  - first:
+      213: 3622367102157974463
+    second: Arrow0002.png
+  - first:
+      213: -6462606992467763731
+    second: Arrow0003.png
+  - first:
+      213: 6200914137889922280
+    second: dead1_00000.png
+  - first:
+      213: 1715886617414161496
+    second: dead1_00001.png
+  - first:
+      213: 2358601801762972540
+    second: dead1_00002.png
+  - first:
+      213: 7522318814922456450
+    second: dead1_00003.png
+  - first:
+      213: 3620644360630682354
+    second: dead1_00004.png
+  - first:
+      213: -2940479871955175976
+    second: dead1_00005.png
+  - first:
+      213: 563356171525926348
+    second: dead1_00006.png
+  - first:
+      213: 4244245338748124042
+    second: dead1_00007.png
+  - first:
+      213: -4546028803043470204
+    second: dead1_00008.png
+  - first:
+      213: 5182089050303495934
+    second: dead1_00009.png
+  - first:
+      213: 3437768655738032268
+    second: dead1_00010.png
+  - first:
+      213: 9153240199988907387
+    second: dead1_00011.png
+  - first:
+      213: 1191718969938651351
+    second: dead1_00012.png
+  - first:
+      213: -8030320204988075642
+    second: dead1_00013.png
+  - first:
+      213: 8440323783227275282
+    second: dead1_00014.png
+  - first:
+      213: -8887694426632058099
+    second: dead1_00015.png
+  - first:
+      213: 4853861426848218551
+    second: dead1_00016.png
+  - first:
+      213: -8497503451437483528
+    second: dead1_00017.png
+  - first:
+      213: -6886831221558619434
+    second: dead1_00018.png
+  - first:
+      213: 138518284315714869
+    second: dead1_00019.png
+  - first:
+      213: 3590895254015609842
+    second: dead1_00020.png
+  - first:
+      213: 9115342250485058048
+    second: dead1_00021.png
+  - first:
+      213: 580905097073088978
+    second: dead1_00022.png
+  - first:
+      213: 2631108890729951069
+    second: dead1_00023.png
+  - first:
+      213: -429983996033802225
+    second: ArrowM000.png
+  - first:
+      213: 4895774294857182544
+    second: ArrowM001.png
+  - first:
+      213: -2287467782217315758
+    second: ArrowM002.png
+  - first:
+      213: 6596233701726334695
+    second: ArrowM003.png
+  - first:
+      213: -8657266397030488480
+    second: hole.png
+  - first:
+      213: 952731965244630396
+    second: Recurso 1G.png
+  - first:
+      213: -7357686468368482860
+    second: Recurso 3G.png
+  - first:
+      213: -3587991201400723536
+    second: Recurso 4G.png
+  - first:
+      213: 4823383950148196617
+    second: moneda.png
+  - first:
+      213: 7100713365118528488
+    second: moneda_1.png
+  - first:
+      213: -9176619581212795066
+    second: moneda_2.png
+  - first:
+      213: 6966950924719973311
+    second: moneda_3.png
+  - first:
+      213: 3193401944527357166
+    second: moneda_4.png
+  - first:
+      213: -6251520692890671231
+    second: coinRotate0.png
+  - first:
+      213: -5413450097112789538
+    second: coinRotate1.png
+  - first:
+      213: 3808814606157621429
+    second: coinRotate2.png
+  - first:
+      213: -930540891234747365
+    second: coinRotate3.png
+  - first:
+      213: -1233292851368825158
+    second: greenCell.png
+  - first:
+      213: 165004043569784546
+    second: Bat_Fly_0.png
+  - first:
+      213: -5349752807769304244
+    second: Bat_Fly_1.png
+  - first:
+      213: -6601456186252962147
+    second: Bat_Fly_2.png
+  - first:
+      213: -7715669770972494748
+    second: Bat_Fly_3.png
+  - first:
+      213: 5081917113451029679
+    second: Bat_Fly_4.png
+  - first:
+      213: -7182285176143524261
+    second: Bat_Fly_5.png
+  - first:
+      213: -7947865154003335499
+    second: Bat_Fly_6.png
+  - first:
+      213: -4867715409641679010
+    second: Eye0000.png
+  - first:
+      213: 9094826788724323473
+    second: Eye0001.png
+  - first:
+      213: 3863632404707030221
+    second: Eye0002.png
+  - first:
+      213: -4660103933772484573
+    second: Eye0003.png
+  - first:
+      213: 2820134152528971692
+    second: Eye0004.png
+  - first:
+      213: -8873646717441634640
+    second: Eye0005.png
+  - first:
+      213: -626687325797704049
+    second: Eye0006.png
+  - first:
+      213: 1557451847487440966
+    second: Eye0007.png
+  - first:
+      213: -4910314053362964838
+    second: Eye0008.png
+  - first:
+      213: 8421630872640084172
+    second: Eye0009.png
+  - first:
+      213: 3715423797212857474
+    second: Eye0010.png
+  - first:
+      213: -7180070122970466346
+    second: Eye0011.png
+  - first:
+      213: -2963215578478902073
+    second: Eye0012.png
+  - first:
+      213: 8202252351675456553
+    second: Eye0013.png
+  - first:
+      213: 2655165921811654757
+    second: Eye0014.png
+  - first:
+      213: 9013960133771297140
+    second: Eye0015.png
+  - first:
+      213: -7571386484365152503
+    second: fallGoblin_00000.png
+  - first:
+      213: -5643977675457812782
+    second: fallGoblin_00001.png
+  - first:
+      213: -3058661783817603940
+    second: fallGoblin_00002.png
+  - first:
+      213: -68527784980525639
+    second: fallGoblin_00003.png
+  - first:
+      213: -3628492178658674281
+    second: fallGoblin_00004.png
+  - first:
+      213: -8815991761851837793
+    second: fallGoblin_00005.png
+  - first:
+      213: -8090187221126361405
+    second: fallGoblin_00006.png
+  - first:
+      213: -7174900145489182421
+    second: fallGoblin_00007.png
+  - first:
+      213: -6636677872790743525
+    second: fallGoblin_00008.png
+  - first:
+      213: -6929379466795134619
+    second: fallGoblin_00009.png
+  - first:
+      213: -3167060227777197044
+    second: fallGoblin_00010.png
+  - first:
+      213: -3090574137662522953
+    second: fallGoblin_00011.png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arrow0000.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 85
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6dd3a28314ae080800000000000000
+      internalID: -9157435182821812530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow0001.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 85
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d880e1033b27070800000000000000
+      internalID: 8102735698836622728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow0002.png
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 232
+        width: 85
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbef22ffab354230800000000000000
+      internalID: 3622367102157974463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow0003.png
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 98
+        width: 85
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedd0034e253056a0800000000000000
+      internalID: -6462606992467763731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Fly_0.png
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 232
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6ea7bad463a4200800000000000000
+      internalID: 165004043569784546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Fly_1.png
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 232
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4313c06a2cd1c5b0800000000000000
+      internalID: -5349752807769304244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Fly_2.png
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 232
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96561a139ae264a0800000000000000
+      internalID: -6601456186252962147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Fly_3.png
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 232
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46407f0093f6ce490800000000000000
+      internalID: -7715669770972494748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Fly_4.png
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 232
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa42a3580b8968640800000000000000
+      internalID: 5081917113451029679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Fly_5.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1975
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e49688fa5635c90800000000000000
+      internalID: -7182285176143524261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Fly_6.png
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1975
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b60de480c283b190800000000000000
+      internalID: -7947865154003335499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00000.png
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 118
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aded743213ec281f0800000000000000
+      internalID: -1044045453155901734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00001.png
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 118
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22a220e79cf015f0800000000000000
+      internalID: -787852205559209430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00002.png
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 535
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc0be55ef30e05c0800000000000000
+      internalID: -4247453007665754919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00003.png
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 421
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388a794beba24d460800000000000000
+      internalID: 7265479097417443459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00004.png
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 254
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8449d7ea549eb1990800000000000000
+      internalID: -7414075876045908920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00005.png
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 718
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b509e2814c5df80800000000000000
+      internalID: -8082338348107015297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00006.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 535
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbac8968f069784b0800000000000000
+      internalID: -5438213031599748420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00007.png
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 421
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc880212fadc48e0800000000000000
+      internalID: -1707749425460769583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00008.png
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 421
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8fbc7594b1094e0800000000000000
+      internalID: -1977050234596099914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00009.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 421
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bacd2d33a5af5900800000000000000
+      internalID: 675440589653527217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00010.png
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 421
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5486915e678d68fd0800000000000000
+      internalID: -2339944951211005883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00011.png
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 718
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f6b4ac377a9a5f0800000000000000
+      internalID: -744880147596087454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00012.png
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 718
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729ea056bc1a170c0800000000000000
+      internalID: -4579701451113436889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00013.png
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 852
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e5da9fb4107b3e0800000000000000
+      internalID: -2038158880538796503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00014.png
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 852
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea97c1a5b8e6ab660800000000000000
+      internalID: 7402350482328156590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00015.png
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 604
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8e31d730f153530800000000000000
+      internalID: 3834004757619665078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00016.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 604
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca37f6123e310c60800000000000000
+      internalID: 7782570015927515841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00017.png
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 738
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d49d602659192d0800000000000000
+      internalID: -3273671205867401956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00018.png
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 307
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96f9d002b6340b00800000000000000
+      internalID: 793819572470412955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00019.png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 307
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9271e950def00500800000000000000
+      internalID: 360568141004239515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00020.png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 118
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bce17bafb04bea0800000000000000
+      internalID: -5858044043860194437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00021.png
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 307
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c442f3f41317eed20800000000000000
+      internalID: 3309707232760767564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00022.png
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 4
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a6c76ea74f648d0800000000000000
+      internalID: -2862331704457270735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofre Animar Estar_00023.png
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 118
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab2e0f643a02f140800000000000000
+      internalID: 4751871777147071404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coinRotate0.png
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1966
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1876f324d032e39a0800000000000000
+      internalID: -6251520692890671231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coinRotate1.png
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1882
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddc94081df8fd4b0800000000000000
+      internalID: -5413450097112789538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coinRotate2.png
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1798
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8285f44b0abd430800000000000000
+      internalID: 3808814606157621429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coinRotate3.png
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1714
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c3af85dfd0613f0800000000000000
+      internalID: -930540891234747365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0000.png
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1941
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57dc9c00a6627cb0800000000000000
+      internalID: -4867715409641679010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0001.png
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1832
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194be9327c0573e70800000000000000
+      internalID: 9094826788724323473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0002.png
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1866
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc43041a3316e9530800000000000000
+      internalID: 3863632404707030221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0003.png
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1757
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320371b992cf35fb0800000000000000
+      internalID: -4660103933772484573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0004.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1752
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7cf6ce111232720800000000000000
+      internalID: 2820134152528971692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0005.png
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1648
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be849833597ad480800000000000000
+      internalID: -8873646717441634640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0006.png
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1539
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e9690923f8d47f0800000000000000
+      internalID: -626687325797704049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0007.png
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1521
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648c34c143e2d9510800000000000000
+      internalID: 1557451847487440966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0008.png
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1412
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9621b9626f0bdbb0800000000000000
+      internalID: -4910314053362964838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0009.png
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1303
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8dc21b8a4afd470800000000000000
+      internalID: 8421630872640084172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0010.png
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1194
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284c7e62246df8330800000000000000
+      internalID: 3715423797212857474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0011.png
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1085
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d733f9c3444b5c90800000000000000
+      internalID: -7180070122970466346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0012.png
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 976
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c48cd3912b80e6d0800000000000000
+      internalID: -2963215578478902073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0013.png
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 867
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c5ab37e0144d170800000000000000
+      internalID: 8202252351675456553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0014.png
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 758
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5686e45965b09d420800000000000000
+      internalID: 2655165921811654757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye0015.png
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 649
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47188f0dbf4081d70800000000000000
+      internalID: 9013960133771297140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00000.png
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 307
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fa83e7b180de690800000000000000
+      internalID: -7571386484365152503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00001.png
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 4
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d62a1e05309ca1b0800000000000000
+      internalID: -5643977675457812782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00002.png
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 118
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c943d7720537d85d0800000000000000
+      internalID: -3058661783817603940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00003.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 4
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdcdf6b75a8c0ff0800000000000000
+      internalID: -68527784980525639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00004.png
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 118
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79934cc869105adc0800000000000000
+      internalID: -3628492178658674281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00005.png
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 4
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f921d04a33e47a580800000000000000
+      internalID: -8815991761851837793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00006.png
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 118
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cecb560691e9bf80800000000000000
+      internalID: -8090187221126361405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00007.png
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 4
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b210839f452ad6c90800000000000000
+      internalID: -7174900145489182421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00008.png
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 624
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16dc9723a8c5e3a0800000000000000
+      internalID: -6636677872790743525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00009.png
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 422
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5615acf9616e5df90800000000000000
+      internalID: -6929379466795134619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00010.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 308
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c821da0875c04d0800000000000000
+      internalID: -3167060227777197044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallGoblin_00011.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1861
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9bd9442331c15d0800000000000000
+      internalID: -3090574137662522953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenCell.png
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 650
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abee12a9fa672eee0800000000000000
+      internalID: -1233292851368825158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hole.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066621f74163bd780800000000000000
+      internalID: -8657266397030488480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: losa_A1.png
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 10
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218934c9076480010800000000000000
+      internalID: 1155250753892489234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: losa_C1.png
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148fc3a4e0e48b6e0800000000000000
+      internalID: -1821620225989347263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: losa_C5.png
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 10
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3155c79d7d7643f30800000000000000
+      internalID: 4554379299942847763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: losa_C6.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 10
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f84966fffdacfd10800000000000000
+      internalID: 2160793236093356273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: losa_C7.png
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 536
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57f188d78b3c3c50800000000000000
+      internalID: 6646252604731029338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: losa_C8.png
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 536
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9b18bf79013d4f0800000000000000
+      internalID: -805281663423497755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneda.png
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 649
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90957e3b52a10f240800000000000000
+      internalID: 4823383950148196617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneda_1.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 500
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb22c33f2dca8260800000000000000
+      internalID: 7100713365118528488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneda_2.png
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 649
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fdae65c1916a080800000000000000
+      internalID: -9176619581212795066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneda_3.png
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 832
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3638b14f49fa060800000000000000
+      internalID: 6966950924719973311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneda_4.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 366
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee44890362e315c20800000000000000
+      internalID: 3193401944527357166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 30DG.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 783
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9c7fd87f0a9ce40800000000000000
+      internalID: 5677245790376413618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 31DG.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 634
+        width: 50
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d247440da6332d0800000000000000
+      internalID: -3300176659198235317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 32DG.png
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1630
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd4253ddf0a58d20800000000000000
+      internalID: 3280204915641830836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 40DG.png
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1968
+        width: 193
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc4f20be5c5f1b40800000000000000
+      internalID: 5413146838875196622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 4G.png
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 368
+        width: 126
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b768472305e43ec0800000000000000
+      internalID: -3587991201400723536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideDoor.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 966
+        width: 469
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f01c2839859de990800000000000000
+      internalID: -7355058199840681740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

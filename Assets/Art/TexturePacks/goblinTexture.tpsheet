@@ -1,0 +1,105 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.7
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=goblinTexture.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+Goblin animacion Arriba2_00000.png;1;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00001.png;1;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00002.png;1;1713;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00003.png;1;1601;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00004.png;1;1489;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00005.png;1;1377;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00006.png;1;1265;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00007.png;1;1153;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00008.png;1;1041;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00009.png;1;929;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00010.png;1;817;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00011.png;1;705;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00012.png;1;593;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00013.png;1;481;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00014.png;1;369;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00015.png;1;257;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00016.png;1;145;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00017.png;1;33;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00018.png;113;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00019.png;225;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00020.png;337;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00021.png;449;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00022.png;561;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Arriba2_00023.png;673;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00000.png;785;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00001.png;897;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00002.png;1009;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00003.png;1121;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00004.png;1233;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00005.png;1345;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00006.png;1457;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00007.png;1569;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00008.png;1681;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00009.png;1793;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00010.png;1905;1937;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00011.png;113;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00012.png;113;1713;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00013.png;113;1601;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00014.png;113;1489;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00015.png;113;1377;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00016.png;113;1265;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00017.png;113;1153;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00018.png;113;1041;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00019.png;113;929;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00020.png;113;817;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00021.png;113;705;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00022.png;113;593;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Estar_00023.png;113;481;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00000.png;113;369;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00001.png;113;257;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00002.png;113;145;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00003.png;113;33;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00004.png;225;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00005.png;337;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00006.png;449;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00007.png;561;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00008.png;673;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00009.png;785;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00010.png;897;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00011.png;1009;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00012.png;1121;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00013.png;1233;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00014.png;1345;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00015.png;1457;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00016.png;1569;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00017.png;1681;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00018.png;1793;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00019.png;1905;1825;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00020.png;225;1713;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00021.png;225;1601;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00022.png;225;1489;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion Frontal_00000_00023.png;225;1377;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00004.png;225;1265;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00005.png;225;1153;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00006.png;225;1041;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00007.png;225;929;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00008.png;225;817;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00009.png;225;705;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00010.png;225;593;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00011.png;225;481;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00012.png;225;369;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00013.png;225;257;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00014.png;225;145;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00015.png;225;33;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00016.png;337;1713;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00017.png;449;1713;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00018.png;561;1713;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00019.png;673;1713;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00020.png;785;1713;110;110; 0.5;0.5; 0;0;0;0
+Goblin animacion lateral_00021.png;897;1713;110;110; 0.5;0.5; 0;0;0;0

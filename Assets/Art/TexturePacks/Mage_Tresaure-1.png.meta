@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 57cf52e4da5eca64b8609bea6b1ebb96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4202226151941257226
+    second: magoHand 2_00002.png
+  - first:
+      213: -2281337064542908247
+    second: magoHand 2_00003.png
+  - first:
+      213: -4462567595493256207
+    second: magoHand 2_00004.png
+  - first:
+      213: -41214385611432882
+    second: magoHand 2_00005.png
+  - first:
+      213: -2554763477925105114
+    second: magoHand 2_00006.png
+  - first:
+      213: 6749072471074557741
+    second: magoHand 2_00007.png
+  - first:
+      213: 7005037841856632126
+    second: magoHand 2_00008.png
+  - first:
+      213: 9080125435786071785
+    second: magoHand 2_00009.png
+  - first:
+      213: 7595712732009756821
+    second: magoHand 2_00010.png
+  - first:
+      213: 9182290048357075336
+    second: magoHand 2_00011.png
+  - first:
+      213: 3621851973701176255
+    second: magoHand 2_00012.png
+  - first:
+      213: -414279896935681950
+    second: magoHand 2_00013.png
+  - first:
+      213: 4402027105460159264
+    second: magoHand 2_00014.png
+  - first:
+      213: -5471925083562742136
+    second: magoHand 2_00015.png
+  - first:
+      213: -7961113870472790159
+    second: magoHand 2_00016.png
+  - first:
+      213: -3135932748921463094
+    second: magoHand 2_00017.png
+  - first:
+      213: 6992381522639745600
+    second: magoHand 2_00018.png
+  - first:
+      213: 8617126869869305682
+    second: magoHand 2_00019.png
+  - first:
+      213: -4828654871053222461
+    second: magoHand 2_00020.png
+  - first:
+      213: 6381025681198073336
+    second: magoHand 2_00021.png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magoHand 2_00002.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f74fa34491bea5c0800000000000000
+      internalID: -4202226151941257226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00003.png
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0dcfed6001750e0800000000000000
+      internalID: -2281337064542908247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00004.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f394746a66c112c0800000000000000
+      internalID: -4462567595493256207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00005.png
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c9ef11cb39d6ff0800000000000000
+      internalID: -41214385611432882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00006.png
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622f12d0728ab8cd0800000000000000
+      internalID: -2554763477925105114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00007.png
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f44c187a589ad50800000000000000
+      internalID: 6749072471074557741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00008.png
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35980a8dc4e63160800000000000000
+      internalID: 7005037841856632126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00009.png
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee840ca9f5130e70800000000000000
+      internalID: 9080125435786071785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00010.png
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5987a576c74696960800000000000000
+      internalID: 7595712732009756821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00011.png
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8898dec262c0e6f70800000000000000
+      internalID: 9182290048357075336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00012.png
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb81814e27634230800000000000000
+      internalID: 3621851973701176255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00013.png
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2603091f0ae204af0800000000000000
+      internalID: -414279896935681950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00014.png
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02308985454271d30800000000000000
+      internalID: 4402027105460159264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 312
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e61b4c021df04b0800000000000000
+      internalID: -5471925083562742136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00016.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fb8065d11748190800000000000000
+      internalID: -7961113870472790159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00017.png
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 112
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace950d97cdea74d0800000000000000
+      internalID: -3135932748921463094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00018.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 112
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04272f692fde90160800000000000000
+      internalID: 6992381522639745600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00019.png
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 112
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f980f8b3f269770800000000000000
+      internalID: 8617126869869305682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00020.png
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 112
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdb9e36afb2dfcb0800000000000000
+      internalID: -4828654871053222461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoHand 2_00021.png
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 112
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5c4768c05fd8850800000000000000
+      internalID: 6381025681198073336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

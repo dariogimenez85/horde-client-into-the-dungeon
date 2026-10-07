@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.7
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=Mage_Tresaure-1.png
+:size=2048x512
+:pivotpoints=enabled
+:borders=disabled
+
+magoHand 2_00002.png;0;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00003.png;145;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00004.png;290;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00005.png;435;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00006.png;580;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00007.png;725;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00008.png;870;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00009.png;1015;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00010.png;1160;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00011.png;1305;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00012.png;1450;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00013.png;1595;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00014.png;1740;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00015.png;1885;312;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00016.png;0;112;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00017.png;145;112;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00018.png;290;112;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00019.png;435;112;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00020.png;580;112;145;200; 0.5;0.5; 0;0;0;0
+magoHand 2_00021.png;725;112;145;200; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,1461 @@
+fileFormatVersion: 2
+guid: eced2549236efbd43929fe53b99814f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -247542556338343317
+    second: Mado_idle00000.png
+  - first:
+      213: 6656286087357046794
+    second: Mado_idle00001.png
+  - first:
+      213: -6548529848338942743
+    second: Mado_idle00002.png
+  - first:
+      213: 7020175981704485064
+    second: Mado_idle00003.png
+  - first:
+      213: -7881397772416847718
+    second: Mado_idle00004.png
+  - first:
+      213: -7781605620771108445
+    second: Mado_idle00005.png
+  - first:
+      213: -1794538067888801321
+    second: Mado_idle00006.png
+  - first:
+      213: -1904830533345812585
+    second: Mado_idle00007.png
+  - first:
+      213: 2537883871275721743
+    second: Mado_idle00008.png
+  - first:
+      213: -1090018994008017841
+    second: Mado_idle00009.png
+  - first:
+      213: -3731685365058587213
+    second: Mado_idle00010.png
+  - first:
+      213: -7574697519771290484
+    second: Mado_idle00011.png
+  - first:
+      213: -2344572763355723236
+    second: Mado_idle00012.png
+  - first:
+      213: -7111095290943212178
+    second: Mado_idle00013.png
+  - first:
+      213: -1729866244793220659
+    second: Mado_idle00014.png
+  - first:
+      213: -7564484294455873721
+    second: Mado_idle00015.png
+  - first:
+      213: -5775345542118100308
+    second: Mado_idle00016.png
+  - first:
+      213: 4103898901093957877
+    second: Mado_idle00017.png
+  - first:
+      213: 3863632618568401694
+    second: Mado_idle00018.png
+  - first:
+      213: -1137849658540474356
+    second: Mado_idle00019.png
+  - first:
+      213: 5984055916692505356
+    second: Mado_idle00020.png
+  - first:
+      213: 1756490092269786793
+    second: Mado_idle00021.png
+  - first:
+      213: 3338749432553831600
+    second: Mado_idle00022.png
+  - first:
+      213: -5103363602059179216
+    second: Mado_idle00023.png
+  - first:
+      213: -4291093004429474487
+    second: Mago base 2_00000.png
+  - first:
+      213: 709976634983664450
+    second: Mago base 2_00001.png
+  - first:
+      213: 4382529947649669845
+    second: Mago base 2_00002.png
+  - first:
+      213: 7652849862252584971
+    second: Mago base 2_00003.png
+  - first:
+      213: -5829960707689147646
+    second: Mago base 2_00004.png
+  - first:
+      213: -6464851944303139595
+    second: Mago base 2_00005.png
+  - first:
+      213: -7477254712303764214
+    second: Mago base 2_00006.png
+  - first:
+      213: 6031108685507379353
+    second: Mago base 2_00007.png
+  - first:
+      213: -1682830632624758707
+    second: Mago base 2_00008.png
+  - first:
+      213: -3518563251972904874
+    second: Mago base 2_00009.png
+  - first:
+      213: -8651762261600327884
+    second: Mago base 2_00010.png
+  - first:
+      213: -1303837339008454285
+    second: Mago base 2_00011.png
+  - first:
+      213: -1644126149991612269
+    second: Mago base 2_00012.png
+  - first:
+      213: -5447867020282730285
+    second: Mago base 2_00013.png
+  - first:
+      213: 90262282721010140
+    second: Mago base 2_00014.png
+  - first:
+      213: -1014568818250526930
+    second: Mago base 2_00015.png
+  - first:
+      213: 7149754926067420784
+    second: Mago base 2_00016.png
+  - first:
+      213: 5059587574012636518
+    second: Mago base 2_00017.png
+  - first:
+      213: -6993627762250840546
+    second: Mago base 2_00018.png
+  - first:
+      213: 2447543540610740525
+    second: Mago base 2_00019.png
+  - first:
+      213: -422041057511058786
+    second: Mago base 2_00020.png
+  - first:
+      213: 4427699319096419658
+    second: Mago base 2_00021.png
+  - first:
+      213: 4115203201579376526
+    second: Mago base 2_00022.png
+  - first:
+      213: 1255616116383468593
+    second: Mago base 2_00023.png
+  - first:
+      213: -3573221060346081120
+    second: Mago base 2_00024.png
+  - first:
+      213: 129793469148264260
+    second: Mago base 2_00025.png
+  - first:
+      213: 5430206327614078359
+    second: Mago base 2_00026.png
+  - first:
+      213: -7099198292312188382
+    second: Mago base 2_00027.png
+  - first:
+      213: 7226420555188557027
+    second: Mago base 2_00028.png
+  - first:
+      213: -2862792278646539600
+    second: Mago base 2_00029.png
+  - first:
+      213: -617545633384424375
+    second: Mago base 2_00030.png
+  - first:
+      213: -7287767781794171601
+    second: Mago base 2_00031.png
+  - first:
+      213: -3027441731972504561
+    second: Mago base 2_00032.png
+  - first:
+      213: 6567677960869246442
+    second: Mago base 2_00033.png
+  - first:
+      213: 5363761501638354045
+    second: Mago base 2_00034.png
+  - first:
+      213: 2519246870971137472
+    second: Mago base 2_00035.png
+  - first:
+      213: -7642579550078955378
+    second: Mago base 2_00036.png
+  - first:
+      213: -6986190656250482124
+    second: Mago base 2_00037.png
+  - first:
+      213: -4304736934260381309
+    second: Mago base 2_00038.png
+  - first:
+      213: -4639638590582212046
+    second: Mago base 2_00039.png
+  - first:
+      213: -8934209338345432782
+    second: Mago base 2_00040.png
+  - first:
+      213: 4025432927598929030
+    second: Mago base 2_00041.png
+  - first:
+      213: -7944856889180079367
+    second: Mago base 2_00042.png
+  - first:
+      213: -8370369036139293483
+    second: Mago base 2_00043.png
+  - first:
+      213: -7488321725563239677
+    second: Mago base 2_00044.png
+  - first:
+      213: -5034204565264175890
+    second: Mago base 2_00045.png
+  - first:
+      213: 1134917308858814261
+    second: Mago base 2_00046.png
+  - first:
+      213: 5872057000571574716
+    second: magoIdle 2_00000.png
+  - first:
+      213: -2020603184727182404
+    second: magoIdle 2_00001.png
+  - first:
+      213: 8496327539749004337
+    second: magoIdle 2_00002.png
+  - first:
+      213: -5342729590989995479
+    second: magoIdle 2_00003.png
+  - first:
+      213: -1489741967467089309
+    second: magoIdle 2_00004.png
+  - first:
+      213: -7995471060823302871
+    second: magoIdle 2_00005.png
+  - first:
+      213: -4373330347372446776
+    second: magoIdle 2_00006.png
+  - first:
+      213: 6482957363760534328
+    second: magoIdle 2_00007.png
+  - first:
+      213: 4360865312599152491
+    second: magoIdle 2_00008.png
+  - first:
+      213: -4707285768556851854
+    second: magoIdle 2_00009.png
+  - first:
+      213: -5641502776527328054
+    second: magoIdle 2_00010.png
+  - first:
+      213: -8242339762133470218
+    second: magoIdle 2_00011.png
+  - first:
+      213: 2623740809052242341
+    second: magoIdle 2_00012.png
+  - first:
+      213: 4276564278421821673
+    second: magoIdle 2_00013.png
+  - first:
+      213: -8178460675581062792
+    second: magoIdle 2_00014.png
+  - first:
+      213: 6292880440740734705
+    second: magoIdle 2_00015.png
+  - first:
+      213: 4081934219791390427
+    second: magoIdle 2_00016.png
+  - first:
+      213: 2299960598120308935
+    second: magoIdle 2_00017.png
+  - first:
+      213: 7284125960575375563
+    second: magoIdle 2_00018.png
+  - first:
+      213: -1279953388915006169
+    second: magoIdle 2_00019.png
+  - first:
+      213: 469286273365297047
+    second: magoIdle 2_00020.png
+  - first:
+      213: 3372361289761829324
+    second: magoIdle 2_00021.png
+  - first:
+      213: 2093564722795774182
+    second: magoIdle 2_00022.png
+  - first:
+      213: -793575831067450606
+    second: magoIdle 2_00023.png
+  - first:
+      213: 5967907243255608846
+    second: magoIdle 2_00024.png
+  - first:
+      213: -1447419988470282174
+    second: magoIdle 2_00025.png
+  - first:
+      213: -7577728558717485600
+    second: magoIdle 2_00026.png
+  - first:
+      213: 2781581713923288834
+    second: magoIdle 2_00027.png
+  - first:
+      213: 2839903387189881480
+    second: magoIdle 2_00028.png
+  - first:
+      213: -8473901073564960709
+    second: magoIdle 2_00029.png
+  - first:
+      213: 3311309769742591210
+    second: magoIdle 2_00030.png
+  - first:
+      213: 5036627075617365460
+    second: magoIdle 2_00031.png
+  - first:
+      213: 1214792566707996120
+    second: magoIdle 2_00032.png
+  - first:
+      213: -3561658388237179319
+    second: magoIdle 2_00033.png
+  - first:
+      213: -139198266368748645
+    second: magoIdle 2_00034.png
+  - first:
+      213: 7470185022392458984
+    second: magoIdle 2_00035.png
+  - first:
+      213: 937609905771041264
+    second: magoIdle 2_00036.png
+  - first:
+      213: 6055093136874219059
+    second: magoIdle 2_00037.png
+  - first:
+      213: -6518108869564904024
+    second: magoIdle 2_00038.png
+  - first:
+      213: -3728880238410650235
+    second: magoIdle 2_00039.png
+  - first:
+      213: 3661440076172404382
+    second: magoIdle 2_00040.png
+  - first:
+      213: 2288041874241343720
+    second: magoIdle 2_00041.png
+  - first:
+      213: 731787150991230954
+    second: magoIdle 2_00042.png
+  - first:
+      213: -8316939268293459792
+    second: magoIdle 2_00043.png
+  - first:
+      213: 6207542004714187529
+    second: magoIdle 2_00044.png
+  - first:
+      213: 8468890582324204657
+    second: magoIdle 2_00045.png
+  - first:
+      213: 7573521525653356728
+    second: magoIdle 2_00046.png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magoIdle 2_00000.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb91ae30bbcbd7150800000000000000
+      internalID: 5872057000571574716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00001.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3305eeb1065f3e0800000000000000
+      internalID: -2020603184727182404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00002.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134ab16c1e409e570800000000000000
+      internalID: 8496327539749004337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00003.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922c2167ebfcad5b0800000000000000
+      internalID: -5342729590989995479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00004.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362f126d29f535be0800000000000000
+      internalID: -1489741967467089309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00005.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d16b79e616a0190800000000000000
+      internalID: -7995471060823302871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00006.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbfd6f483fce43c0800000000000000
+      internalID: -4373330347372446776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00007.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83313f8cf5718f950800000000000000
+      internalID: 6482957363760534328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00008.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b679bce95e7e48c30800000000000000
+      internalID: 4360865312599152491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00009.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dcae4a88c5caeb0800000000000000
+      internalID: -4707285768556851854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00010.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc65bd5d1b55b1b0800000000000000
+      internalID: -5641502776527328054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00011.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3f4f7f7a35d9d80800000000000000
+      internalID: -8242339762133470218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00012.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1414a5d56696420800000000000000
+      internalID: 2623740809052242341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00013.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e815729d88695b30800000000000000
+      internalID: 4276564278421821673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00014.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8715d7ec855408e80800000000000000
+      internalID: -8178460675581062792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6ea547b6dc45750800000000000000
+      internalID: 6292880440740734705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00016.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd65d2fbb81f5a830800000000000000
+      internalID: 4081934219791390427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00017.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c02b507af91bef10800000000000000
+      internalID: 2299960598120308935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00018.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8db4bd7f9661560800000000000000
+      internalID: 7284125960575375563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00019.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725e9ac9c21bc3ee0800000000000000
+      internalID: -1279953388915006169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00020.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797c7e5116d338600800000000000000
+      internalID: 469286273365297047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00021.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1388ab9b80dce20800000000000000
+      internalID: 3372361289761829324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00022.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e00880f506dd0d10800000000000000
+      internalID: 2093564722795774182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00023.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213a3e67cf6acf4f0800000000000000
+      internalID: -793575831067450606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00024.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e063bb6b40442d250800000000000000
+      internalID: 5967907243255608846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00025.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248cd62703bb9ebe0800000000000000
+      internalID: -1447419988470282174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00026.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edbf4d360086d690800000000000000
+      internalID: -7577728558717485600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00027.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fae14d4d92a9620800000000000000
+      internalID: 2781581713923288834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00028.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aa1ed851d596720800000000000000
+      internalID: 2839903387189881480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00029.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38fb58ced7a66a80800000000000000
+      internalID: -8473901073564960709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00030.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4a9c601b224fd20800000000000000
+      internalID: 3311309769742591210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00031.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd994cd3a1b5e540800000000000000
+      internalID: 5036627075617365460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00032.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d54a66376fcbd010800000000000000
+      internalID: 1214792566707996120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00033.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94625ddf092729ec0800000000000000
+      internalID: -3561658388237179319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00034.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b939dbb0ae7711ef0800000000000000
+      internalID: -139198266368748645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00035.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee552af2bd6ba760800000000000000
+      internalID: 7470185022392458984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00036.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1de5bdd3f030d00800000000000000
+      internalID: 937609905771041264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00037.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3362b417023080450800000000000000
+      internalID: 6055093136874219059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00038.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adc24e74860b85a0800000000000000
+      internalID: -6518108869564904024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00039.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d2f8bfd2b504cc0800000000000000
+      internalID: -3728880238410650235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00040.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96a2a2a95c00d230800000000000000
+      internalID: 3661440076172404382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00041.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0df5946f1c0cf10800000000000000
+      internalID: 2288041874241343720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00042.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae707026984d72a00800000000000000
+      internalID: 731787150991230954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00043.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b00fdeeccb449c80800000000000000
+      internalID: -8316939268293459792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00044.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b2e47709e952650800000000000000
+      internalID: 6207542004714187529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00045.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174d5115d1b878570800000000000000
+      internalID: 8468890582324204657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoIdle 2_00046.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0c75b83bd8a1960800000000000000
+      internalID: 7573521525653356728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

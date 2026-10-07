@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 1ed3825be3f840a4a8e2078f1100f6ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -949610706336237460
+    second: Mado_Abajo00003.png
+  - first:
+      213: 914811275478463792
+    second: Mado_Abajo00004.png
+  - first:
+      213: -7912823901480465782
+    second: Mado_Abajo00005.png
+  - first:
+      213: 7576005152415442460
+    second: Mado_Abajo00006.png
+  - first:
+      213: -6251911197565096483
+    second: Mado_Abajo00007.png
+  - first:
+      213: -6073018363484998932
+    second: Mado_Abajo00008.png
+  - first:
+      213: 4427267535265070759
+    second: Mado_Abajo00009.png
+  - first:
+      213: -1519649335044392630
+    second: Mado_Abajo00010.png
+  - first:
+      213: 8615499905968487449
+    second: Mado_Abajo00011.png
+  - first:
+      213: -8409560175838670312
+    second: Mado_Abajo00012.png
+  - first:
+      213: 2060975812091049465
+    second: Mado_Abajo00013.png
+  - first:
+      213: -3542229997494082213
+    second: Mado_Abajo00014.png
+  - first:
+      213: -3144963910943844856
+    second: Mado_Abajo00015.png
+  - first:
+      213: -4404628736492012600
+    second: Mado_Abajo00016.png
+  - first:
+      213: 7294135939520744754
+    second: Mado_Abajo00017.png
+  - first:
+      213: 3237356926801411829
+    second: Mado_Abajo00018.png
+  - first:
+      213: 4254661189823054044
+    second: Mado_Abajo00019.png
+  - first:
+      213: -646881236105520908
+    second: Mado_Abajo00020.png
+  - first:
+      213: 843778417948460438
+    second: Mado_Abajo00021.png
+  - first:
+      213: -7330397554114189339
+    second: Mado_Abajo00022.png
+  - first:
+      213: 8576314270853823700
+    second: Mado_Abajo00023.png
+  - first:
+      213: 928998941605072900
+    second: Mado_Arriba00000.png
+  - first:
+      213: 7186668609771563367
+    second: Mado_Arriba00001.png
+  - first:
+      213: -8770855424900378718
+    second: Mado_Arriba00002.png
+  - first:
+      213: -979915044847353267
+    second: Mado_Arriba00003.png
+  - first:
+      213: 9072703901131838153
+    second: Mado_Arriba00004.png
+  - first:
+      213: -5433537379249213446
+    second: Mado_Arriba00005.png
+  - first:
+      213: -2566486742266790955
+    second: Mado_Arriba00006.png
+  - first:
+      213: 2392515719152854628
+    second: Mado_Arriba00007.png
+  - first:
+      213: -4979660179346858150
+    second: Mado_Arriba00008.png
+  - first:
+      213: -3743664956120410457
+    second: Mado_Arriba00009.png
+  - first:
+      213: -6500344291190775804
+    second: Mado_Arriba00010.png
+  - first:
+      213: 7581046848813923757
+    second: Mado_Arriba00011.png
+  - first:
+      213: 971077953497611637
+    second: Mado_Arriba00012.png
+  - first:
+      213: 8827085158042281896
+    second: Mado_Arriba00013.png
+  - first:
+      213: -845656916095922721
+    second: Mado_Arriba00014.png
+  - first:
+      213: 1728551691409206341
+    second: Mado_Arriba00015.png
+  - first:
+      213: -185023890489274174
+    second: Mado_Arriba00016.png
+  - first:
+      213: 6335704984844583738
+    second: Mado_Arriba00017.png
+  - first:
+      213: -4042166317220159915
+    second: Mado_Arriba00018.png
+  - first:
+      213: 1507069627739972665
+    second: Mado_Arriba00019.png
+  - first:
+      213: -8765413854668741060
+    second: Mado_Arriba00020.png
+  - first:
+      213: 7158397280347179433
+    second: Mado_Arriba00021.png
+  - first:
+      213: -452806846076723643
+    second: Mado_Arriba00022.png
+  - first:
+      213: -8043300669404550076
+    second: Mado_Arriba00023.png
+  - first:
+      213: -4291093004429474487
+    second: Mago base 2_00000.png
+  - first:
+      213: 709976634983664450
+    second: Mago base 2_00001.png
+  - first:
+      213: 4382529947649669845
+    second: Mago base 2_00002.png
+  - first:
+      213: -9180159273461932965
+    second: magoDown 2_00000.png
+  - first:
+      213: 7741374037042772507
+    second: magoDown 2_00001.png
+  - first:
+      213: 2695371916300702139
+    second: magoDown 2_00002.png
+  - first:
+      213: -5783685656186501222
+    second: magoDown 2_00003.png
+  - first:
+      213: 1201733805445695361
+    second: magoDown 2_00004.png
+  - first:
+      213: -7591062060175991682
+    second: magoDown 2_00005.png
+  - first:
+      213: -3001895434786902761
+    second: magoDown 2_00006.png
+  - first:
+      213: 6514332243507714572
+    second: magoDown 2_00007.png
+  - first:
+      213: 1415913449450014430
+    second: magoDown 2_00008.png
+  - first:
+      213: -13843601554715698
+    second: magoDown 2_00009.png
+  - first:
+      213: -7428561280456178729
+    second: magoDown 2_00010.png
+  - first:
+      213: -6951994387965364784
+    second: magoDown 2_00011.png
+  - first:
+      213: -3787837296297565402
+    second: magoDown 2_00012.png
+  - first:
+      213: 7496480493907752364
+    second: magoDown 2_00013.png
+  - first:
+      213: 6327714997652603526
+    second: magoDown 2_00014.png
+  - first:
+      213: 8745486691835115548
+    second: magoDown 2_00015.png
+  - first:
+      213: 6296333156067861174
+    second: magoDown 2_00016.png
+  - first:
+      213: -6622170034676847004
+    second: magoDown 2_00017.png
+  - first:
+      213: -6555943702585880690
+    second: magoDown 2_00018.png
+  - first:
+      213: -267481581146968047
+    second: magoDown 2_00019.png
+  - first:
+      213: -2192036297345651523
+    second: magoDown 2_00020.png
+  - first:
+      213: -231089645498632409
+    second: magoDown 2_00021.png
+  - first:
+      213: 1187758135817338294
+    second: magoDown 2_00022.png
+  - first:
+      213: -2097504772801555383
+    second: magoDown 2_00023.png
+  - first:
+      213: -7554878930107713124
+    second: magoUp 2_00000.png
+  - first:
+      213: 2990771130329572555
+    second: magoUp 2_00001.png
+  - first:
+      213: -646176444227459323
+    second: magoUp 2_00002.png
+  - first:
+      213: 2865429114454527820
+    second: magoUp 2_00003.png
+  - first:
+      213: 6328966442196111519
+    second: magoUp 2_00004.png
+  - first:
+      213: 6034264127885411775
+    second: magoUp 2_00005.png
+  - first:
+      213: -4577079522090206508
+    second: magoUp 2_00006.png
+  - first:
+      213: -6135597135800929007
+    second: magoUp 2_00007.png
+  - first:
+      213: 1885929920841327428
+    second: magoUp 2_00008.png
+  - first:
+      213: -1237422309191517210
+    second: magoUp 2_00009.png
+  - first:
+      213: -6913013384934776588
+    second: magoUp 2_00010.png
+  - first:
+      213: -2702179795748822374
+    second: magoUp 2_00011.png
+  - first:
+      213: -3238661683967650159
+    second: magoUp 2_00012.png
+  - first:
+      213: -3742179851384934509
+    second: magoUp 2_00013.png
+  - first:
+      213: -8258674727703320955
+    second: magoUp 2_00014.png
+  - first:
+      213: -2225311880192649949
+    second: magoUp 2_00015.png
+  - first:
+      213: -9057696996239343319
+    second: magoUp 2_00016.png
+  - first:
+      213: -2034422276359992481
+    second: magoUp 2_00017.png
+  - first:
+      213: -6535396394098187202
+    second: magoUp 2_00018.png
+  - first:
+      213: 451528930127452648
+    second: magoUp 2_00019.png
+  - first:
+      213: 4773242266866119759
+    second: magoUp 2_00020.png
+  - first:
+      213: -483495795555779924
+    second: magoUp 2_00021.png
+  - first:
+      213: 906942993554930332
+    second: magoUp 2_00022.png
+  - first:
+      213: -3409130822029226514
+    second: magoUp 2_00023.png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magoDown 2_00000.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c1bc387c5899080800000000000000
+      internalID: -9180159273461932965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00001.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1abd5fcba2ee6b60800000000000000
+      internalID: 7741374037042772507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00002.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1daa82a72e76520800000000000000
+      internalID: 2695371916300702139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00003.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a974b7af9883cbfa0800000000000000
+      internalID: -5783685656186501222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00004.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1874b2c678a6da010800000000000000
+      internalID: 1201733805445695361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00005.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cd343864127a690800000000000000
+      internalID: -7591062060175991682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00006.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71de8acb1002756d0800000000000000
+      internalID: -3001895434786902761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00007.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a962b39ae876a50800000000000000
+      internalID: 6514332243507714572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00008.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed68a2bc7c556a310800000000000000
+      internalID: 1415913449450014430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00009.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb4be65151decff0800000000000000
+      internalID: -13843601554715698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00010.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d34036afd278e890800000000000000
+      internalID: -7428561280456178729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00011.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5b0d8ffed858f90800000000000000
+      internalID: -6951994387965364784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00012.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623253f3c06ee6bc0800000000000000
+      internalID: -3787837296297565402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00013.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca534098a49d80860800000000000000
+      internalID: 7496480493907752364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00014.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682cef2c34f80d750800000000000000
+      internalID: 6327714997652603526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18fcb68fc53e5970800000000000000
+      internalID: 8745486691835115548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00016.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b260f265a1116750800000000000000
+      internalID: 6296333156067861174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00017.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ea9d070735914a0800000000000000
+      internalID: -6622170034676847004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00018.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fc8e7ffeb9405a0800000000000000
+      internalID: -6555943702585880690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00019.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11076cb4be6b94cf0800000000000000
+      internalID: -267481581146968047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00020.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc23f9f9925491e0800000000000000
+      internalID: -2192036297345651523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00021.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72778c811310bccf0800000000000000
+      internalID: -231089645498632409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00022.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdf8744bb3cb7010800000000000000
+      internalID: 1187758135817338294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoDown 2_00023.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9441a7ea58a24e2e0800000000000000
+      internalID: -2097504772801555383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00000.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99b8d9f3ada72790800000000000000
+      internalID: -7554878930107713124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00001.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4a9cb4f7a518920800000000000000
+      internalID: 2990771130329572555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00002.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507e89392f15807f0800000000000000
+      internalID: -646176444227459323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00003.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fcf10199c04c720800000000000000
+      internalID: 2865429114454527820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00004.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f909776627105d750800000000000000
+      internalID: 6328966442196111519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00005.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb50e7fd0430eb350800000000000000
+      internalID: 6034264127885411775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00006.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da3911dc62fa70c0800000000000000
+      internalID: -4577079522090206508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00007.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1157eaba9eaf9daa0800000000000000
+      internalID: -6135597135800929007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00008.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443270b554b2c2a10800000000000000
+      internalID: 1885929920841327428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00009.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebfe7747fac3dee0800000000000000
+      internalID: -1237422309191517210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00010.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0217ff3fa0010a0800000000000000
+      internalID: -6913013384934776588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00011.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a926723eacdef7ad0800000000000000
+      internalID: -2702179795748822374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00012.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196907b8b56fd03d0800000000000000
+      internalID: -3238661683967650159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00013.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fa398804b111cc0800000000000000
+      internalID: -3742179851384934509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00014.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5866fbb671b436d80800000000000000
+      internalID: -8258674727703320955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32519aa92aa1e11e0800000000000000
+      internalID: -2225311880192649949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00016.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921080852989c4280800000000000000
+      internalID: -9057696996239343319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00017.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bcb6ee7b744c3e0800000000000000
+      internalID: -2034422276359992481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00018.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34a8670b9b9d45a0800000000000000
+      internalID: -6535396394098187202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00019.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e91f0e6b27244600800000000000000
+      internalID: 451528930127452648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00020.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f447f6f4d86fd3240800000000000000
+      internalID: 4773242266866119759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00021.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caab087b2274a49f0800000000000000
+      internalID: -483495795555779924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00022.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9afe52f8db169c00800000000000000
+      internalID: 906942993554930332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoUp 2_00023.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedcc18649550b0d0800000000000000
+      internalID: -3409130822029226514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

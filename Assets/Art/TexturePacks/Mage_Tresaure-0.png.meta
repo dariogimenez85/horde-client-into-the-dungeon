@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: df3be0cf522615b4cb02a135866dfc08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3677352534561010762
+    second: magoLose 2_00000.png
+  - first:
+      213: -333464695525970862
+    second: magoLose 2_00001.png
+  - first:
+      213: 2358809857084730071
+    second: magoLose 2_00002.png
+  - first:
+      213: -686660712999021235
+    second: magoLose 2_00003.png
+  - first:
+      213: 7464474317208916450
+    second: magoLose 2_00004.png
+  - first:
+      213: -2814481124974651850
+    second: magoLose 2_00005.png
+  - first:
+      213: 5230505772456779460
+    second: magoLose 2_00006.png
+  - first:
+      213: 1872235924562602463
+    second: magoLose 2_00007.png
+  - first:
+      213: -6320746599099403751
+    second: magoLose 2_00008.png
+  - first:
+      213: 6343269070252251259
+    second: magoLose 2_00009.png
+  - first:
+      213: 52560310645865038
+    second: magoLose 2_00010.png
+  - first:
+      213: 7777918099273888122
+    second: magoLose 2_00011.png
+  - first:
+      213: 104945815884861607
+    second: magoLose 2_00012.png
+  - first:
+      213: 6188832724642711644
+    second: magoLose 2_00013.png
+  - first:
+      213: 5490807604545844456
+    second: magoLose 2_00014.png
+  - first:
+      213: 5599914671988313082
+    second: magoLose 2_00015.png
+  - first:
+      213: -321574592266326542
+    second: magoLose 2_00016.png
+  - first:
+      213: -321205732454119911
+    second: magoLose 2_00017.png
+  - first:
+      213: -4499119530531512592
+    second: magoLose 2_00018.png
+  - first:
+      213: 7031566613746629688
+    second: magoLose 2_00019.png
+  - first:
+      213: 2655601386136650684
+    second: magoLose 2_00020.png
+  - first:
+      213: 7229323428620680242
+    second: magoLose 2_00021.png
+  - first:
+      213: 5893441547529550062
+    second: magoLose 2_00022.png
+  - first:
+      213: 5602894362359794866
+    second: magoLose 2_00023.png
+  - first:
+      213: -5889817519710961080
+    second: magoWin 2_00000.png
+  - first:
+      213: 2379721808400467646
+    second: magoWin 2_00001.png
+  - first:
+      213: 2526494669672754485
+    second: magoWin 2_00002.png
+  - first:
+      213: 5924427714252935998
+    second: magoWin 2_00003.png
+  - first:
+      213: -7284113035910776274
+    second: magoWin 2_00004.png
+  - first:
+      213: 7278253295207229610
+    second: magoWin 2_00005.png
+  - first:
+      213: 7285136370437177457
+    second: magoWin 2_00006.png
+  - first:
+      213: -8981359707916641358
+    second: magoWin 2_00007.png
+  - first:
+      213: 4101761138143608105
+    second: magoWin 2_00008.png
+  - first:
+      213: 4352353116932479990
+    second: magoWin 2_00009.png
+  - first:
+      213: 4031568708808849920
+    second: magoWin 2_00010.png
+  - first:
+      213: -2802237628822881886
+    second: magoWin 2_00011.png
+  - first:
+      213: 4088822211714618651
+    second: magoWin 2_00012.png
+  - first:
+      213: -71082416259906824
+    second: magoWin 2_00013.png
+  - first:
+      213: -1524645695010091750
+    second: magoWin 2_00014.png
+  - first:
+      213: -1713353904130160900
+    second: magoWin 2_00015.png
+  - first:
+      213: -1435102392869941451
+    second: magoWin 2_00016.png
+  - first:
+      213: -9169517703744619667
+    second: magoWin 2_00017.png
+  - first:
+      213: 5192696319632213282
+    second: magoWin 2_00018.png
+  - first:
+      213: -3451214986030279172
+    second: magoWin 2_00019.png
+  - first:
+      213: 1273749961186506147
+    second: magoWin 2_00020.png
+  - first:
+      213: 2027425868122156555
+    second: magoWin 2_00021.png
+  - first:
+      213: -6358482002917729986
+    second: magoWin 2_00022.png
+  - first:
+      213: -6205709426057378869
+    second: magoWin 2_00023.png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magoLose 2_00000.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbcb9f6a5b67fcc0800000000000000
+      internalID: -3677352534561010762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00001.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c6a0e40ab4f5bf0800000000000000
+      internalID: -333464695525970862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00002.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daa938411d2cb020800000000000000
+      internalID: 2358809857084730071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00003.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d451a7838bd7876f0800000000000000
+      internalID: -686660712999021235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00004.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e19340d7d3279760800000000000000
+      internalID: 7464474317208916450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00005.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63618de1454f0f8d0800000000000000
+      internalID: -2814481124974651850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00006.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce9ae2a94d769840800000000000000
+      internalID: 5230505772456779460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00007.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9674367a48bf910800000000000000
+      internalID: 1872235924562602463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00008.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912fb65f4723848a0800000000000000
+      internalID: -6320746599099403751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00009.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b789b1f7c91d70850800000000000000
+      internalID: 6343269070252251259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00010.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ab455f25bbab000800000000000000
+      internalID: 52560310645865038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00011.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a713d475d47b0fb60800000000000000
+      internalID: 7777918099273888122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00012.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a01b7cd9a7d47100800000000000000
+      internalID: 104945815884861607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00013.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5844aeb29623e550800000000000000
+      internalID: 6188832724642711644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00014.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4f7febc64433c40800000000000000
+      internalID: 5490807604545844456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00015.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb8c5c79b4e6bd40800000000000000
+      internalID: 5599914671988313082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00016.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdac23bc99898bf0800000000000000
+      internalID: -321574592266326542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00017.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916c0419619da8bf0800000000000000
+      internalID: -321205732454119911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00018.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe95a4df9aef81c0800000000000000
+      internalID: -4499119530531512592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00019.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c3dd29494259160800000000000000
+      internalID: 7031566613746629688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00020.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3c5b504679ad420800000000000000
+      internalID: 2655601386136650684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00021.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c38511b57b35460800000000000000
+      internalID: 7229323428620680242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00022.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8f609dcd5b9c150800000000000000
+      internalID: 5893441547529550062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLose 2_00023.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc8e76bcba71cd40800000000000000
+      internalID: 5602894362359794866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00000.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84281c1eb2a234ea0800000000000000
+      internalID: -5889817519710961080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00001.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6c5fd5068760120800000000000000
+      internalID: 2379721808400467646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00002.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d23c02489ef0320800000000000000
+      internalID: 2526494669672754485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00003.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33968dfd9bc73250800000000000000
+      internalID: 5924427714252935998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00004.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2afeb669c1a9ea90800000000000000
+      internalID: -7284113035910776274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00005.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8a4266fcc810560800000000000000
+      internalID: 7278253295207229610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00006.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170cf2c3ee00a1560800000000000000
+      internalID: 7285136370437177457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00007.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb5f915eeccb5380800000000000000
+      internalID: -8981359707916641358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00008.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d3d88e5026ce830800000000000000
+      internalID: 4101761138143608105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00009.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb13df991aa66c30800000000000000
+      internalID: 4352353116932479990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00010.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ab128616203f730800000000000000
+      internalID: 4031568708808849920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00011.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a977c539b37c19d0800000000000000
+      internalID: -2802237628822881886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00012.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b151af6532a6eb830800000000000000
+      internalID: 4088822211714618651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00013.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f24d054be6730ff0800000000000000
+      internalID: -71082416259906824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00014.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d489c71de57dae0800000000000000
+      internalID: -1524645695010091750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf60bc1b3b1f838e0800000000000000
+      internalID: -1713353904130160900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00016.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f8ca82afd751ce0800000000000000
+      internalID: -1435102392869941451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00017.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b75aa0b345fb080800000000000000
+      internalID: -9169517703744619667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00018.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22508266ac9201840800000000000000
+      internalID: 5192696319632213282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00019.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5192a6142da10d0800000000000000
+      internalID: -3451214986030279172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00020.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5703157d44da110800000000000000
+      internalID: 1273749961186506147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00021.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eebd5d51dd22c10800000000000000
+      internalID: 2027425868122156555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00022.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39df599e4222c7a0800000000000000
+      internalID: -6358482002917729986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoWin 2_00023.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc38e800824e0e9a0800000000000000
+      internalID: -6205709426057378869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

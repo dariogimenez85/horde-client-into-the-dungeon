@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 1ed33cf95812d094fbc07b1495e7d1a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6927781262482558368
+    second: Mado_Derecha00000.png
+  - first:
+      213: 7595982500711118728
+    second: Mado_Derecha00001.png
+  - first:
+      213: -6329945299755862915
+    second: Mado_Derecha00002.png
+  - first:
+      213: -8685642428110457521
+    second: Mado_Derecha00003.png
+  - first:
+      213: -3432414613488829727
+    second: Mado_Derecha00004.png
+  - first:
+      213: 7604704193703349134
+    second: Mado_Derecha00005.png
+  - first:
+      213: 5085912370655341318
+    second: Mado_Derecha00006.png
+  - first:
+      213: -972758055494156203
+    second: Mado_Derecha00007.png
+  - first:
+      213: -32201323514292819
+    second: Mado_Derecha00008.png
+  - first:
+      213: -2368035432920590244
+    second: Mado_Derecha00009.png
+  - first:
+      213: 8016853243448034619
+    second: Mado_Derecha00010.png
+  - first:
+      213: -408152782999326437
+    second: Mado_Derecha00011.png
+  - first:
+      213: 3763318757437681110
+    second: Mado_Derecha00012.png
+  - first:
+      213: -901585118879190499
+    second: Mado_Derecha00013.png
+  - first:
+      213: 3712499109211653853
+    second: Mado_Derecha00014.png
+  - first:
+      213: -2723013373511729069
+    second: Mado_Derecha00015.png
+  - first:
+      213: 2286909283089278149
+    second: Mado_Derecha00016.png
+  - first:
+      213: 6487701200409334758
+    second: Mado_Derecha00017.png
+  - first:
+      213: -8124115622236584163
+    second: Mado_Derecha00018.png
+  - first:
+      213: 1403872936355536101
+    second: Mado_Derecha00019.png
+  - first:
+      213: -632140307474087039
+    second: Mado_Derecha00020.png
+  - first:
+      213: 3400055279182834260
+    second: Mado_Derecha00021.png
+  - first:
+      213: -439116778761652791
+    second: Mado_Derecha00022.png
+  - first:
+      213: 5060830057208668139
+    second: Mado_Derecha00023.png
+  - first:
+      213: 1837700819851026212
+    second: Mado_Izquierda00000.png
+  - first:
+      213: 2960542037860231434
+    second: Mado_Izquierda00001.png
+  - first:
+      213: -402332252737383414
+    second: Mado_Izquierda00002.png
+  - first:
+      213: 6214710947630483566
+    second: Mado_Izquierda00003.png
+  - first:
+      213: -5821096962884287007
+    second: Mado_Izquierda00004.png
+  - first:
+      213: 8641476777875152685
+    second: Mado_Izquierda00005.png
+  - first:
+      213: -8148810199108154629
+    second: Mado_Izquierda00006.png
+  - first:
+      213: -5078155742952773407
+    second: Mado_Izquierda00007.png
+  - first:
+      213: 8002775682660407596
+    second: Mado_Izquierda00008.png
+  - first:
+      213: 402752595556701291
+    second: Mado_Izquierda00009.png
+  - first:
+      213: 3989474310921530142
+    second: Mado_Izquierda00010.png
+  - first:
+      213: 8345547314285779630
+    second: Mado_Izquierda00011.png
+  - first:
+      213: 8305640160952953527
+    second: Mado_Izquierda00012.png
+  - first:
+      213: -5546694608774641985
+    second: Mado_Izquierda00013.png
+  - first:
+      213: 4122070126973346841
+    second: Mado_Izquierda00014.png
+  - first:
+      213: 5869233345819589449
+    second: Mado_Izquierda00015.png
+  - first:
+      213: -8433462921950353335
+    second: Mado_Izquierda00016.png
+  - first:
+      213: 1590283347030298883
+    second: Mado_Izquierda00017.png
+  - first:
+      213: -2311481957559715142
+    second: Mado_Izquierda00018.png
+  - first:
+      213: -8981700243532335701
+    second: Mado_Izquierda00019.png
+  - first:
+      213: -8796373622915631873
+    second: Mado_Izquierda00020.png
+  - first:
+      213: 4460483610638435413
+    second: Mado_Izquierda00021.png
+  - first:
+      213: -2822556073982259616
+    second: Mado_Izquierda00022.png
+  - first:
+      213: 2729001180403020555
+    second: Mado_Izquierda00023.png
+  - first:
+      213: 81372379382112342
+    second: magoLeft 2_00000.png
+  - first:
+      213: 6682625856026521074
+    second: magoLeft 2_00001.png
+  - first:
+      213: -1644065298662566865
+    second: magoLeft 2_00002.png
+  - first:
+      213: 8605084358630272779
+    second: magoLeft 2_00003.png
+  - first:
+      213: 6058493372138105031
+    second: magoLeft 2_00004.png
+  - first:
+      213: -8690303627294035541
+    second: magoLeft 2_00005.png
+  - first:
+      213: -2761451926765349894
+    second: magoLeft 2_00006.png
+  - first:
+      213: -2265966909510436984
+    second: magoLeft 2_00007.png
+  - first:
+      213: 212884768002425130
+    second: magoLeft 2_00008.png
+  - first:
+      213: 4840914577665168222
+    second: magoLeft 2_00009.png
+  - first:
+      213: 4069004742760587772
+    second: magoLeft 2_00010.png
+  - first:
+      213: -1747973327836404083
+    second: magoLeft 2_00011.png
+  - first:
+      213: -5053379775614089134
+    second: magoLeft 2_00012.png
+  - first:
+      213: 3093819545796340310
+    second: magoLeft 2_00013.png
+  - first:
+      213: 5005703637201329386
+    second: magoLeft 2_00014.png
+  - first:
+      213: 2080000095733593232
+    second: magoLeft 2_00015.png
+  - first:
+      213: -346264810228576118
+    second: magoLeft 2_00016.png
+  - first:
+      213: -7534646468932275803
+    second: magoLeft 2_00017.png
+  - first:
+      213: 596379399868424866
+    second: magoLeft 2_00018.png
+  - first:
+      213: -2896734674938863253
+    second: magoLeft 2_00019.png
+  - first:
+      213: -6975800653722059686
+    second: magoLeft 2_00020.png
+  - first:
+      213: 7303063258846001773
+    second: magoLeft 2_00021.png
+  - first:
+      213: -1782086420235545569
+    second: magoLeft 2_00022.png
+  - first:
+      213: 5014034813985788100
+    second: magoLeft 2_00023.png
+  - first:
+      213: -2239818529143045135
+    second: magoRigth 2_00000.png
+  - first:
+      213: 7416664014302780224
+    second: magoRigth 2_00001.png
+  - first:
+      213: -7796874271170564166
+    second: magoRigth 2_00002.png
+  - first:
+      213: 7678934069288317800
+    second: magoRigth 2_00003.png
+  - first:
+      213: -7566981014465025532
+    second: magoRigth 2_00004.png
+  - first:
+      213: -5511708479460522794
+    second: magoRigth 2_00005.png
+  - first:
+      213: -8607446374782753464
+    second: magoRigth 2_00006.png
+  - first:
+      213: -3634018681024800586
+    second: magoRigth 2_00007.png
+  - first:
+      213: 4117208058854936712
+    second: magoRigth 2_00008.png
+  - first:
+      213: 6342845198539152539
+    second: magoRigth 2_00009.png
+  - first:
+      213: 7119827352073328471
+    second: magoRigth 2_00010.png
+  - first:
+      213: 8898465066698700793
+    second: magoRigth 2_00011.png
+  - first:
+      213: 3934462886271184879
+    second: magoRigth 2_00012.png
+  - first:
+      213: -3433670056685405625
+    second: magoRigth 2_00013.png
+  - first:
+      213: -4630668530525369925
+    second: magoRigth 2_00014.png
+  - first:
+      213: -2774178859808888046
+    second: magoRigth 2_00015.png
+  - first:
+      213: -7711206069807994511
+    second: magoRigth 2_00016.png
+  - first:
+      213: -4454546321386948647
+    second: magoRigth 2_00017.png
+  - first:
+      213: 4950277724476573610
+    second: magoRigth 2_00018.png
+  - first:
+      213: -4765470434053801040
+    second: magoRigth 2_00019.png
+  - first:
+      213: 1698684787933351196
+    second: magoRigth 2_00020.png
+  - first:
+      213: 6256244417474434864
+    second: magoRigth 2_00021.png
+  - first:
+      213: -6253632533560783792
+    second: magoRigth 2_00022.png
+  - first:
+      213: -8244095629057707121
+    second: magoRigth 2_00023.png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magoLeft 2_00000.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65069977fb7112100800000000000000
+      internalID: 81372379382112342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00001.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd2d4b5fc47dbc50800000000000000
+      internalID: 6682625856026521074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00002.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24dbad425b1f29e0800000000000000
+      internalID: -1644065298662566865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00003.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f6d6ae1a66b6770800000000000000
+      internalID: 8605084358630272779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00004.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a9586f97141450800000000000000
+      internalID: 6058493372138105031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00005.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1793
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1b9d8e4e6d56780800000000000000
+      internalID: -8690303627294035541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00006.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af355d87a1a5da9d0800000000000000
+      internalID: -2761451926765349894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00007.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88737d5f91bad80e0800000000000000
+      internalID: -2265966909510436984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00008.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2140ee819154f200800000000000000
+      internalID: 212884768002425130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00009.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e531ebdf8226e2340800000000000000
+      internalID: 4840914577665168222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00010.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1ef994142087830800000000000000
+      internalID: 4069004742760587772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00011.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86247df483fdb7e0800000000000000
+      internalID: -1747973327836404083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00012.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25801673ed9ced9b0800000000000000
+      internalID: -5053379775614089134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00013.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ae9523c747fea20800000000000000
+      internalID: 3093819545796340310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00014.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec144acfe4d77540800000000000000
+      internalID: 5005703637201329386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094baf61115addc10800000000000000
+      internalID: 2080000095733593232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00016.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a809b1c5df1d13bf0800000000000000
+      internalID: -346264810228576118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00017.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1538
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1f32fe4fe8f6790800000000000000
+      internalID: -7534646468932275803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00018.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2a48887e3c64800800000000000000
+      internalID: 596379399868424866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00019.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6166b3292bbcc7d0800000000000000
+      internalID: -2896734674938863253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00020.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c75fac34af03f90800000000000000
+      internalID: -6975800653722059686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00021.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6af8b33751b95560800000000000000
+      internalID: 7303063258846001773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00022.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1410dab7d1c447e0800000000000000
+      internalID: -1782086420235545569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoLeft 2_00023.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0901b091e659540800000000000000
+      internalID: 5014034813985788100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00000.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f347113ae09ae0e0800000000000000
+      internalID: -2239818529143045135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00001.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b90f630a84de660800000000000000
+      internalID: 7416664014302780224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00002.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfee74f820fbc390800000000000000
+      internalID: -7796874271170564166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00003.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1283
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863339de9dd019a60800000000000000
+      internalID: 7678934069288317800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00004.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aefa2ebdeacf690800000000000000
+      internalID: -7566981014465025532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00005.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d44f38175a7283b0800000000000000
+      internalID: -5511708479460522794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00006.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845a9d750253c8880800000000000000
+      internalID: -8607446374782753464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00007.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1028
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b81262734f519dc0800000000000000
+      internalID: -3634018681024800586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00008.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8809c666ae2432930800000000000000
+      internalID: 4117208058854936712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00009.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd73c2a10560850800000000000000
+      internalID: 6342845198539152539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00010.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d0761145bec260800000000000000
+      internalID: 7119827352073328471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00011.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f77cc205d2bd7b70800000000000000
+      internalID: 8898465066698700793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00012.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefe62e36250a9630800000000000000
+      internalID: 3934462886271184879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00013.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74afe5b96472950d0800000000000000
+      internalID: -3433670056685405625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00014.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 773
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9847d718f8cbfb0800000000000000
+      internalID: -4630668530525369925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b61b576032089d0800000000000000
+      internalID: -2774178859808888046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00016.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179224b6fea4cf490800000000000000
+      internalID: -7711206069807994511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00017.png
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7353ec8b54e22c0800000000000000
+      internalID: -4454546321386948647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00018.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa784fadc5be2b440800000000000000
+      internalID: 4950277724476573610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00019.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 518
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbb89683e5adddb0800000000000000
+      internalID: -4765470434053801040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00020.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d802a80d0f29710800000000000000
+      internalID: 1698684787933351196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00021.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03795939625a2d650800000000000000
+      internalID: 6256244417474434864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00022.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 263
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c88490852a639a0800000000000000
+      internalID: -6253632533560783792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magoRigth 2_00023.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 8
+        width: 335
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f833aa754b6179d80800000000000000
+      internalID: -8244095629057707121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
